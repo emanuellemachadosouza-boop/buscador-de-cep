@@ -1,0 +1,21 @@
+.busca {
+display: flex;
+gap: 12px;
+margin-bottom: 25px;
+}
+input {
+flex: 1;
+padding: 14px;
+border: 1px solid #ccc;
+border-radius: 8px;
+font-size: 16px;
+}
+button {
+border: none;
+background: #2563eb;
+color: white;
+padding: 14px 24px;
+border-radius: 8px;
+cursor: pointer;
+font-weight: bold;
+}
